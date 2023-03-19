@@ -5,6 +5,12 @@ Ecommerce product selection UI design using React, Redux Toolkit for State Manag
 - User can select color, size and width of the shoes.
 - Based on this info the right variant will be selected
 
+## UI Screenshot
+
+![UI-Screenshot_1](./src/Images/UI_1.png)
+
+![UI-Screenshot_2](./src/Images/UI_2.png)
+
 ## Topics Covered
 
 - React
